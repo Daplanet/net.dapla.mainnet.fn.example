@@ -2,4 +2,4 @@
 Iron Function Tutorial Example code
 
 ## Licence
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdenzuko%2Fnet.dapla.mainnet.fn.example.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdenzuko%2Fnet.dapla.mainnet.fn.example?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdenzuko%2Fnet.dapla.mainnet.fn.example.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdenzuko%2Fnet.dapla.mainnet.fn.example?ref=badge_large)
